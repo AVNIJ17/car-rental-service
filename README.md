@@ -19,6 +19,7 @@ Users can view a list of available cars and rent them by selecting the car and t
 Users can get in touch with the rental service using the contact form on the contact page.
 
 **Supportive Screenshot**
+
 **1. Home Page**
 ![image](https://github.com/AVNIJ17/car-rental-service/assets/113444922/e5e9acec-10a9-45b7-a30e-fe57debabd5b)**
 
