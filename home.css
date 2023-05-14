@@ -1,0 +1,73 @@
+/* Navigation bar styles */
+nav {
+    background-color: #5e4caf ;
+    height: 50px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+  }
+  
+  nav li {
+    margin: 0 10px;
+  }
+  
+  nav a {
+    color: #fff;
+    text-decoration: none;
+  }
+  
+  /* Main content styles */
+  .container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  h1 {
+    font-size: 3em;
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .car-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+  }
+  
+  .car {
+    width: 30%;
+    margin-bottom: 20px;
+    padding: 10px;
+    background-color: #f9f9f9;
+    box-shadow: 0px 2px 5px rgba(0,0,0,0.3);
+    text-align: center;
+  }
+  
+  .car img {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 10px;
+  }
+  
+  @media only screen and (max-width: 768px) {
+    .car {
+      width: 45%;
+    }
+  }
+  
+  @media only screen and (max-width: 480px) {
+    .car {
+      width: 100%;
+    }
+  }
+  
