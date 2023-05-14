@@ -1,11 +1,15 @@
 This is a web application for a car rental service. Users can sign up, log in, and rent cars. The application also includes a contact page for users to get in touch with the rental service.
 
 **Technologies Used**
+
 1.HTML
+
 2.CSS
+
 3.JavaScript
 
 **Features**
+
 **1.Sign Up**
 Users can create a new account by providing their name, email address, and password.
 
@@ -21,7 +25,7 @@ Users can get in touch with the rental service using the contact form on the con
 **Supportive Screenshot**
 
 **1. Home Page**
-![image](https://github.com/AVNIJ17/car-rental-service/assets/113444922/e5e9acec-10a9-45b7-a30e-fe57debabd5b)**
+![image](https://github.com/AVNIJ17/car-rental-service/assets/113444922/e5e9acec-10a9-45b7-a30e-fe57debabd5b)
 
 **2. Sign Up**
 ![image](https://github.com/AVNIJ17/car-rental-service/assets/113444922/1ee10cdc-8d8b-427c-a12c-95ecabdc0874)
